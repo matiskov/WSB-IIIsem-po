@@ -1,0 +1,9 @@
+D:\git\WSBProjectCZ1\WSBProjectCZ1\bin\Debug\netstandard2.0\WSBProjectCZ1.deps.json
+D:\git\WSBProjectCZ1\WSBProjectCZ1\bin\Debug\netstandard2.0\WSBProjectCZ1.dll
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.csprojAssemblyReference.cache
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.AssemblyInfoInputs.cache
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.AssemblyInfo.cs
+D:\git\WSBProjectCZ1\WSBProjectCZ1\bin\Debug\netstandard2.0\WSBProjectCZ1.pdb
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.dll
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.pdb
+D:\git\WSBProjectCZ1\WSBProjectCZ1\obj\Debug\netstandard2.0\WSBProjectCZ1.csproj.CoreCompileInputs.cache
